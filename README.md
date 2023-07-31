@@ -2,11 +2,15 @@
 
 **Welcome to our documentation repository! This repository contains various types of documentation to help you understand and navigate our projects effectively.**
 
+## Testing
+- [Database 1](https://breakfastmatt.github.io/DocumentationRepoTemplate/Obsidian%20Documentation/Databases/Database%201/Database%201)
+- [Database 2](https://breakfastmatt.github.io/DocumentationRepoTemplate/Obsidian%20Documentation/Databases/Database%202/Database%202)
+
 ## Getting Started
 
 | Section           | Description                    |
 | ----------------- | ------------------------------ |
-| [Test](https://breakfastmatt.github.io/DocumentationRepoTemplate/Obsidian%20Documentation/Databases/Database%202/Database%202) | Overview of the project         |
+| [Introduction](./docs/introduction.md) | Overview of the project         |
 | [Installation](./docs/installation.md) | How to install the project      |
 | [Usage](./docs/usage.md)               | Instructions for using the project |
 
