@@ -7,6 +7,7 @@
 ## Testing
 - [Database 1](https://breakfastmatt.github.io/DocumentationRepoTemplate/Obsidian%20Documentation/Databases/Database%201/Database%201)
 - [Database 2](https://breakfastmatt.github.io/DocumentationRepoTemplate/Obsidian%20Documentation/Databases/Database%202/Database%202)
+- [Database 2 - relative link](.//Obsidian%20Documentation/Databases/Database%202/Database%202)
 
 ## Getting Started
 
