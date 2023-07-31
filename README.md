@@ -2,7 +2,7 @@
     <img src="Repository Files/CompanyLogo.png" alt="Company Logo" width="1080" height="320">
 </a>
 
-**Welcome to our documentation repository! This repository contains various types of documentation to help you understand and navigate our projects effectively.**
+**Welcome to our [documentation repository!](https://github.com/BreakfastMatt/DocumentationRepoTemplate) This repository contains various types of documentation to help you understand and navigate our projects effectively.**
 
 ## Testing
 - [Database 1](https://breakfastmatt.github.io/DocumentationRepoTemplate/Obsidian%20Documentation/Databases/Database%201/Database%201)
