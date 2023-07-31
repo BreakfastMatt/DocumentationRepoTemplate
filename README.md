@@ -1,4 +1,4 @@
-<img src="Repository Files/CompanyLogo.png" alt="Company Logo" width="400" height="300">
+<img src="Repository Files/CompanyLogo.png" alt="Company Logo" width="1080" height="320">
 
 Welcome to our documentation repository! This repository contains various types of documentation to help you understand and navigate our projects effectively.
 
