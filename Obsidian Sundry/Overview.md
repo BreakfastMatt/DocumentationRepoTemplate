@@ -1,0 +1,2 @@
+## Description
+All obsidian plugin files, as well as thing such as overview files that allow obsidian documentation to be accessible without creating additional files that are tracked and graphed within obsidian (this allows access to the obsidian documentation through github pages)
