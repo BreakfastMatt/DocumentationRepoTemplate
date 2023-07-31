@@ -4,4 +4,4 @@ Welcome to our documentation repository! This repository contains various types 
 
 ## Obsidian Documentation
 
-[Database 1](https://breakfastmatt.github.io/DocumentationRepoTemplate/Obsidian%20Documentation/Databases/Database%202/Database%201.md)
+[Database 1](https://breakfastmatt.github.io/DocumentationRepoTemplate/Obsidian%20Documentation/Databases/Database%202/Database%201)
