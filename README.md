@@ -1,12 +1,6 @@
 <img src="Repository Files/CompanyLogo.png" alt="Company Logo" width="1080" height="320">
 
-Welcome to our documentation repository! This repository contains various types of documentation to help you understand and navigate our projects effectively.
-
-## Table of Contents
-
-# My GitHub Documentation Repository
-
-Welcome to my documentation repository. Here's a list of available documentation files:
+**Welcome to our documentation repository! This repository contains various types of documentation to help you understand and navigate our projects effectively.**
 
 ## Getting Started
 
