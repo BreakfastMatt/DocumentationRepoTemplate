@@ -11,6 +11,7 @@
 - [Database 2 - relative link](.//Obsidian%20Documentation/Databases/Database%202/Database%202)
 - [Database 1 - md relative link](.//Obsidian%20Documentation/Databases/Database%201/Database%201.md)
 - [Database 2 - md relative link (need to figure out the styling issues here](.//Obsidian%20Documentation/Databases/Database%202/Database%202.md)
+- [Database 2](Obsidian%20Documentation/Databases/Database%202/Database%202.md)
 
 ## Getting Started
 
